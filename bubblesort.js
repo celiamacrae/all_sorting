@@ -18,4 +18,3 @@ function bubbleSort(arr) {
 
 return arr;
 }
-console.log(bubbleSort([2,4,3,1,5]))
